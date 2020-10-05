@@ -116,3 +116,20 @@ Assets + Expenses + Liabilities + Equity + Income = 0
 * Equity:Opening Balances
 * Assets:Accounts Receivable
 * Liabilities:Account Payable
+
+## Other reports
+
+* balance sheet
+* income sheet
+* cash flow
+
+## Investments & loans
+
+* ledger --gain
+* loans
+
+## Mijn workflow
+
+* ladd script
+* eerdere lijn kopiëren
+* pending, uncleared, cleared
